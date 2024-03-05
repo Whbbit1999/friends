@@ -9,7 +9,7 @@ body:
       description: 请认真检查以下清单中的每一项，并在相符的项前打勾。
       options:
         - required: true
-          label: 合法的、非营利性、无商业广告、无木马植入。
+          label: 合法的、非营利性、无木马植入。
         - required: false
           label: 有实质性原创内容的 HTTPS 站点，发布过至少 5 篇原创文章，内容题材不限。
         - required: false
